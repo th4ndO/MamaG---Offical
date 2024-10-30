@@ -1,2 +1,2 @@
 # DEMO
-Some Description i guessd
+Some Description i guess
